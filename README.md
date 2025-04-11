@@ -44,9 +44,8 @@
 
 ### 📫 Let's connect!
 
-- Email: *[your-email@example.com]*  
-- Blog: [wenxiy.github.io](https://wenxiy.github.io)  
-- UQ School of ITEE 🧑‍🎓
+- Email: *wenxinxixi@outlook.com*  
+- Blog: [wenxiy.github.io](https://wenxiy.github.io)
 
 > _“Stay curious. Keep building. Dream big.”_
 
