@@ -27,10 +27,10 @@
 
 ### 🔧 Tech Stack
 
-- **Languages:** Kotlin, Java, C, Python  
-- **Mobile:** Android (Jetpack, MVVM, FusedLocationProvider)  
-- **Backend:** Flask, Ktor, SQLite  
-- **Tools:** GitHub Actions, Docker, VS Code, Android Studio
+- **Languages:** Kotlin, Java, C, Python
+- **Mobile:** Android (Jetpack, MVVM)
+- **Backend:** Flask, Ktor, SQLite，PostgreSQL
+- **Tools:** Docker, VS Code, Android Studio
 
 ---
 
