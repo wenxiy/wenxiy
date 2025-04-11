@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hi there! I'm Wenxin (温鑫)
 
-<!--
-**wenxiy/wenxiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I graduated from **Central China Normal University (CCNU)** with a Bachelor's degree in **Electronic Information Engineering**.  
+🎓 I'm currently a Master's student in **Software Engineering** at **The University of Queensland (UQ)**, Australia 🇦🇺.  
+💻 Passionate about **Android development**, system design, and building things that make life easier (and cooler 😎)!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Featured Projects
+
+- 🚀 [**RouteTracker**](https://github.com/wenxiy/RouteTracker)  
+  A real-time location tracking app with route simulation and multiple location strategies. Built in Kotlin with Google Maps SDK.
+
+- 📈 [**Trendgit**](https://github.com/wenxiy/Trendgit)  
+  An app to explore trending GitHub projects — stay ahead of the dev world!
+
+- 🌏 [**wenxiy.github.io**](https://github.com/wenxiy/wenxiy.github.io)  
+  Personal Hexo-powered site for writing & sharing ideas.
+
+- 🎬 [**FilmReview App**](https://github.com/muxi-mini-project/2020-FilmReview-android)  
+  A mini film review Android project with a neat Java-based UI.
+
+- 🚗 [**Control Software of Car**](https://github.com/wenxiy/The-control-software-of-car)  
+  C-based embedded control software for vehicle simulations.
+
+---
+
+### 🔧 Tech Stack
+
+- **Languages:** Kotlin, Java, C, Python  
+- **Mobile:** Android (Jetpack, MVVM, FusedLocationProvider)  
+- **Backend:** Flask, Ktor, SQLite  
+- **Tools:** GitHub Actions, Docker, VS Code, Android Studio
+
+---
+
+### 🌱 Currently Learning
+
+- 🧠 Machine Learning for mobile  
+- 🌐 Full-stack app architecture  
+- ☁️ Cloud deployment (AWS, Terraform)
+
+---
+
+### 📫 Let's connect!
+
+- Email: *[your-email@example.com]*  
+- Blog: [wenxiy.github.io](https://wenxiy.github.io)  
+- UQ School of ITEE 🧑‍🎓
+
+> _“Stay curious. Keep building. Dream big.”_
+
+---
