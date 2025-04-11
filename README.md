@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Wenxin (温鑫)
+## 👋 Hi there! I'm Xin Wen (温鑫)
 
 🎓 I graduated from **Central China Normal University (CCNU)** with a Bachelor's degree in **Electronic Information Engineering**.  
 🎓 I'm currently a Master's student in **Software Engineering** at **The University of Queensland (UQ)**, Australia 🇦🇺.  
