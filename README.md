@@ -13,7 +13,6 @@
 ### 🧠 What I'm Exploring
 
 - 🔍 **Information Retrieval:** BM25, DPR, ANCE, ColBERT, SPLADE, TILDE  
-- 🔄 **Concurrency & Distributed Systems:** monitors, locks (CLH/MCS), starvation-freedom proofs  
 - 🤖 **Retrieval-Augmented Generation (RAG):** LLM-based re-ranking, hybrid retrieval  
 - ☁️ **Cloud-native architecture:** AWS, Terraform  
 - 📱 **High-performance Android engineering:** Jetpack Compose, UI architecture
