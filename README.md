@@ -2,6 +2,7 @@
 
 🎓 I graduated from **Central China Normal University (CCNU)** with a Bachelor's degree in **Electronic Information Engineering**.  
 🎓 I'm currently a Master's student in **Software Engineering** at **The University of Queensland (UQ)**, Australia 🇦🇺.  
+💼 I previously worked as an Android Client Engineer Intern at Kuaishou (快手), and I’ve recently received an offer from Tencent for C++ Client Development.
 💻 Passionate about **Android development**, system design, and building things that make life easier (and cooler 😎)!
 
 ---
