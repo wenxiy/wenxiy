@@ -4,7 +4,7 @@
 
 🎓 I’m now a Master's student in **Software Engineering** at **The University of Queensland (UQ)**, Australia 🇦🇺.  
 
-💼 I previously worked as an **Android Client Engineer Intern at Kuaishou (快手)**, and I will be joining Tencent as a C++ Client Engineer specializing in audio/video systems.
+💼 I previously worked as an **Android Client Engineer Intern at Kuaishou (快手)**
 
 💻 I’m passionate about **Android development**, **concurrency & distributed systems**, **information retrieval (IR)**, and building practical systems—from mobile apps to intelligent retrieval pipelines.
 
