@@ -2,7 +2,7 @@
 
 🎓 I graduated from **Central China Normal University (CCNU)** with a Bachelor's degree in **Electronic Information Engineering**.  
 
-🎓 I’m now a Master's student in **Software Engineering** at **The University of Queensland (UQ)**, Australia 🇦🇺.  
+🎓 I’m now a Master's student in **Software Engineering** at **The University of Queensland (UQ) (Graduated!)**, Australia 🇦🇺.  
 
 💼 I previously worked as an **Android Client Engineer Intern at Kuaishou (快手)**
 
